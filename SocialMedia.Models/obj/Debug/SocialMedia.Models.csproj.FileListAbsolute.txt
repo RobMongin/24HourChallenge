@@ -1,0 +1,15 @@
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll.config
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.pdb
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.xml
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.xml
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
