@@ -15,6 +15,11 @@
       "ProjectGuid": "58c50c5d-b8a7-4e66-a824-ebb78a2f24d1",
       "DisplayName": "SocialMedia.Services",
       "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 3

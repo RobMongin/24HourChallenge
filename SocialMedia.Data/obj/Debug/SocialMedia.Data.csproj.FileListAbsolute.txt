@@ -28,6 +28,7 @@ C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debu
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Net.Http.Formatting.xml
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.xml
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.AssemblyReference.cache
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
