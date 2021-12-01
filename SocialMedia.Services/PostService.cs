@@ -25,6 +25,7 @@ namespace SocialMedia.Services
                 OwnerId = _userId,
                 Content = model.Content,
                 CreatedUtc = DateTimeOffset.Now,
+                CommentId = model.CommentId
 
             };
 
@@ -50,6 +51,7 @@ namespace SocialMedia.Services
                                 {
                                     PostId = e.PostId,
                                     CreatedUtc = e.CreatedUtc
+                                    CommentId = e.Comment.CommentId
                                 }
                         );
                 return query.ToArray();

@@ -123,3 +123,5 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\bin\Mi
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.pdb
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.csproj.CopyComplete
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\bin\Swashbuckle.Core.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\bin\WebActivatorEx.dll

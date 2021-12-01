@@ -13,3 +13,10 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debu
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.pdb
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CopyComplete
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Data.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Models.dll
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Data.pdb
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Data.dll.config
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Models.pdb
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Models.dll.config
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.AssemblyReference.cache
