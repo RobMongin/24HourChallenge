@@ -75,7 +75,39 @@ namespace SocialMedia.Services
             }
         }
 
+        public bool DeletePost(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         //Update
-       
+        public bool UpdatePost(PostEdit model)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Posts
+                        .Single(e => e.PostId == model.PostId && e.OwnerId == _userId);
+                entity.Content = model.Content;
+                entity.ModifiedUtc = DateTimeOffset.UtcNow;
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
+
+        //Delete
+        public bool DeleteUpdate(int postId)
+        {
+            using(var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Posts
+                        .Single(e => e.PostId == postId && e.OwnerId == _userId);
+                ctx.Posts.Remove(entity);
+                return ctx.SaveChanges() == 1;
+            }
+        }
     }
 }
