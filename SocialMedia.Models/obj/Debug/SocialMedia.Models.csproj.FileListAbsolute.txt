@@ -13,3 +13,7 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
