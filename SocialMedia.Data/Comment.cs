@@ -15,5 +15,9 @@ namespace SocialMedia.Data
         [Required, Display(Name = "Comment")]
         public string Content { get; set; }
 
+        public DateTime Created { get; set; }
+
+
+
     }
 }

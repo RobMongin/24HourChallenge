@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21b1e2d9-b4ab-4b39-ac0d-7b526a2f8b49": {
+      "ProjectGuid": "21b1e2d9-b4ab-4b39-ac0d-7b526a2f8b49",
+      "DisplayName": "SocialMedia.Data",
+      "ColorIndex": 0
+    },
+    "167b6e93-ca8e-4f14-ada0-9c6bdf70aed7": {
+      "ProjectGuid": "167b6e93-ca8e-4f14-ada0-9c6bdf70aed7",
+      "DisplayName": "SocialMedia.Models",
+      "ColorIndex": 1
+    },
+    "58c50c5d-b8a7-4e66-a824-ebb78a2f24d1": {
+      "ProjectGuid": "58c50c5d-b8a7-4e66-a824-ebb78a2f24d1",
+      "DisplayName": "SocialMedia.Services",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
