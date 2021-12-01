@@ -50,7 +50,7 @@ namespace SocialMedia.Services
                                 new PostListItem
                                 {
                                     PostId = e.PostId,
-                                    CreatedUtc = e.CreatedUtc
+                                    CreatedUtc = e.CreatedUtc,
                                     CommentId = e.Comment.CommentId
                                 }
                         );
