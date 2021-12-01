@@ -12,8 +12,12 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
+<<<<<<< HEAD
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.AssemblyReference.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
+=======
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.AssemblyReference.cache
+>>>>>>> 436f61619e2e9a491f7ea2343c65373287870b56

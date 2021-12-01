@@ -14,6 +14,5 @@ namespace SocialMedia.Models.PostModels
 
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
-
     }
 }
