@@ -12,4 +12,4 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\bin\Debug\
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
-H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
+H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.AssemblyReference.cache
