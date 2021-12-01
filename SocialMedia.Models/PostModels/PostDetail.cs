@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Models.PostModels
 {
-    class PostDetail
+    public class PostDetail
     {
     }
 }
