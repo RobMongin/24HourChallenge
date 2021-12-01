@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Services
 {
-    class ReplyService
+    public class ReplyService
     {
+
     }
 }

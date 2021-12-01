@@ -14,10 +14,10 @@ namespace SocialMedia.Data
 
         [Required, Display(Name = "Comment")]
         public string Content { get; set; }
-<<<<<<< HEAD
-        public DateTime Created { get; set; }
-=======
 
->>>>>>> 436f61619e2e9a491f7ea2343c65373287870b56
+        public DateTime Created { get; set; }
+
+
+
     }
 }
