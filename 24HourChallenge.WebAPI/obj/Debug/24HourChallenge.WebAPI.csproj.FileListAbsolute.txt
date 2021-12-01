@@ -123,6 +123,7 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\bin\Mi
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.pdb
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\bin\24HourChallenge.WebAPI.dll.config
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\bin\24HourChallenge.WebAPI.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\bin\24HourChallenge.WebAPI.pdb
@@ -246,5 +247,7 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.Web
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.csproj.AssemblyReference.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.csproj.CopyComplete
+=======
+>>>>>>> 393508133b9d94d63c8a9f328f0966830e146f8d
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\24HourChallenge.WebAPI\obj\Debug\24HourChallenge.WebAPI.pdb

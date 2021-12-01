@@ -13,6 +13,7 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debu
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.pdb
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Services.dll.config
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Services.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Services.pdb
@@ -27,5 +28,7 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Service
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.AssemblyReference.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CoreCompileInputs.cache
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CopyComplete
+=======
+>>>>>>> 393508133b9d94d63c8a9f328f0966830e146f8d
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.pdb

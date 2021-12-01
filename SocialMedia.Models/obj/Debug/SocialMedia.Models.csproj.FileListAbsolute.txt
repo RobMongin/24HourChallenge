@@ -20,4 +20,23 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
 =======
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.AssemblyReference.cache
+<<<<<<< HEAD
 >>>>>>> 436f61619e2e9a491f7ea2343c65373287870b56
+=======
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll.config
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\SocialMedia.Models.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
+>>>>>>> 393508133b9d94d63c8a9f328f0966830e146f8d
