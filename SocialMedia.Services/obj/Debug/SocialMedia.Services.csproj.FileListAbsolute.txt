@@ -13,6 +13,7 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debu
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.dll
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.pdb
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CopyComplete
+<<<<<<< HEAD
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.AssemblyReference.cache
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.dll
@@ -35,3 +36,22 @@ C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Services\bin\
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CopyComplete
+=======
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Services.dll.config
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Services.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\SocialMedia.Services.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\EntityFramework.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\EntityFramework.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.csproj.CopyComplete
+>>>>>>> 393508133b9d94d63c8a9f328f0966830e146f8d
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.dll
+C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Services\obj\Debug\SocialMedia.Services.pdb
+>>>>>>> bafddced2dcfef8209f2b20bf3901cc611ba5753

@@ -24,7 +24,6 @@ namespace SocialMedia.Data
 
         public DateTimeOffset? ModifiedUtc { get; set; }
 
-
         [ForeignKey("Comment")]
         public int CommentId { get; set; }
         public virtual Comment Comment { get; set; }
