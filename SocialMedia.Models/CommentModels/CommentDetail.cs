@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Models.CommentModels
 {
-    class CommentDetail
+    public class CommentDetail
     {
+        public int CommentId { get; set; }
+        public string Content { get; set; }
+
+        public DateTime Created {  get; set; }
+
     }
 }

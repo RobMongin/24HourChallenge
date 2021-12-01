@@ -32,6 +32,42 @@ H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Data\bin\Debug\Sy
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.xml
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.xml
 H:\ElevenFiftyProjects\Assignments\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.AssemblyReference.cache
+<<<<<<< HEAD
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll.config
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\SocialMedia.Data.pdb
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Owin.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
+C:\ElevenFiftyProjects\24HourChallenge\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
+=======
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll.config
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Data\bin\Debug\SocialMedia.Data.pdb
@@ -67,3 +103,4 @@ C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Data\ob
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CopyComplete
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
 C:\Users\jshel\Documents\ElevenFiftyProjects\24HourChallenge\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
+>>>>>>> bafddced2dcfef8209f2b20bf3901cc611ba5753

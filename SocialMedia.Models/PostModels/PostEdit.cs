@@ -8,7 +8,11 @@ namespace SocialMedia.Models.PostModels
 {
     public class PostEdit
     {
+
+        public int NoteId { get; set; }
+
         public int PostId { get; set; }
+ 
         public string Content { get; set; }
     }
 }

@@ -10,6 +10,7 @@ namespace SocialMedia.Services
 {
     public class ReplyService
     {
+
         public bool CreateReply(ReplyCreate model)
         {
             var entity =
