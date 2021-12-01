@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Models.CommentModels
 {
-    class CommentCreate
+    public class CommentCreate
     {
     }
 }

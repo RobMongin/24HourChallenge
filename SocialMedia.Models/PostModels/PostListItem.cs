@@ -8,12 +8,11 @@ using System.Threading.Tasks;
 namespace SocialMedia.Models.PostModels
 {
     
-    class PostListItem
+    public class PostListItem
     {
         public int PostId { get; set; }
 
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
-
     }
 }
