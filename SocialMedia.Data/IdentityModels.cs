@@ -33,7 +33,7 @@ namespace SocialMedia.Data
             return new ApplicationDbContext();
         }
         public DbSet<Post> Posts { get; set; }
-        //public DbSet<Comment> Comments { get; set; }  
+        public DbSet<Comment> Comments { get; set; }  
         //public DbSet<Reply> Replies { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
